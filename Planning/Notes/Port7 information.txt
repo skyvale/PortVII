@@ -1,0 +1,48 @@
+Port VII Todo - WEEK I:
+
+-- Portfolio Plan
+	> Who is your target audience/employer
+	> Evaluate your portfolio
+	> Gather projects to display for your portfolio
+	> Make a PLAN to redevelopment your Portfolio, create an outline of it
+	> Provide research supporting the plan
+	> Flesh out plan and create a professional Portfolio Proposal
+	> Create a video pitch of your plan. Treat it like a quick 5-min max
+	   meeting where you explain your plan. Keep it in a nutshell, do not
+    	   read it word for word
+
+-- Make an appointment with Career Development.
+	> Show them your portfolio
+	> Get advice for future jobs
+
+
+------------------------------------------
+
+WEEK II --
+
+-- Marketing, SEO, and Analytics
+-- Create wireframes of website, sketch branding
+-- Work on HTML and CSS of your Portfolio
+
+
+------------------------------------------
+
+WEEK II --
+
+-- Producing Professional Videos
+-- Continue working on CSS and begin JavaScript for Portfolio
+
+
+------------------------------------------
+
+
+WEEK IV --
+
+-- Finish JavaScript and polish Portfolio
+-- Launch Portfolio
+-- Make Promotional Video about your Full Sail experience and showcase your Portfolio.
+   And also show off your capstone project.
+
+
+
+

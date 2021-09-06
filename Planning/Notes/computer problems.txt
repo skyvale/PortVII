@@ -1,0 +1,23 @@
+Computer Problems:
+
+-- Audio (specifically headphones) disconnecting after Sleep.
+   I have to unplug them and replug them to get them to work.
+
+-- Background programs like my tablet driver and Wallpaper Engine randomly crash.
+   Wallpaper Engine crashes upon Sleep or Restart.
+
+-- Programs that use audio (games, internet browser stuff like youtube, etc) freeze 
+   when opened. Occasionally, this can be fixed by just waiting for it to unfreeze for
+   a few minutes. Or, restarting my computer completely. Normally I just have to
+   restart.
+
+.....
+
+
+What I've tried:
+
+-- Shutting down and restarting computer
+-- Updating my audio drivers
+-- Deleting and re-downloading my audio drivers
+-- Plugging my headphones into different USBs
+
